@@ -6,3 +6,6 @@
 $ git clone
 https://github.com/ITIC-ITESME/t4p2-markdown-Raul1311.git
 ```
+- [ ]  Activar las páginas de GitHub
+- [ ]  Esbozar mi portafolio
+- [ ]  Presentarme al mundo
